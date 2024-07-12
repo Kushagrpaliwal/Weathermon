@@ -1,5 +1,5 @@
-import  Main  from '@/Components/Main'
-import  Footer  from '@/Components/Footer'
+import  Main  from '@/components/Main'
+import  Footer  from '@/components/Footer'
 
 
 const page = () => {
